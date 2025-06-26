@@ -1,5 +1,5 @@
 <p align="center" style="font-size: 16px;">
-  O <strong>KhanMarques</strong> realiza automaticamente as <strong>questões</strong> na plataforma <strong>Khan Academy.
+  O <strong>KhanMarques</strong> realiza automaticamente as <strong>questões</strong> 🚀<strong> uhull
 </p>
 
 ---
